@@ -1,0 +1,220 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f5f7fa;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Montserrat;
+}
+.wrapper{
+    background: #ffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.seitbar{
+    background: #090225;
+    width: 370px;
+    padding-top: 40px;
+
+}
+.my-photo{
+    width: 370px;
+    
+}
+.about-me-container{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contakt-container{
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 60px;
+   
+}
+.Tech-Skills-container{
+    margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 60px;
+   
+}
+.Soft-Skills-container{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+}
+.contakt-container-titl{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffff;
+    margin-bottom: 20px;
+    
+}
+.contakt-container-titl-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(238, 241, 8);
+}
+.titl-link-contakt{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffff;
+    margin-right: 10px;
+}
+.Tech-Skills-taitl{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffff;
+    margin-bottom: 20px;
+    
+}
+
+.Tech-Skiemlls-line{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(245, 118, 13);
+    margin-left: 15px;
+}
+
+.Soft-Skills-taitl{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffff;
+    margin-bottom: 20px;
+    
+}
+
+.Soft-Skills-line{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(245, 118, 13);
+    margin-left: 15px;
+    
+}
+.Tech-Skiells-tekst{
+    color: #ffff;
+}
+.Soft-Skills-tekst{
+    color: #ffff;
+}
+.profession{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 25px;
+ }
+ .name{
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+
+ }
+
+ .diskription{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-top: 24px; 
+ }
+
+ .info-conteiner{
+     margin-bottom: 65px;
+ }
+.about-me-taitle {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-top: 25px
+ }
+
+ .projekts-link {
+    color: #022f83;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+ }
+
+ .tech-name {
+    color: #022f83;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+ }
+ .dots{
+    color: #022f83;
+    font-weight: 100;
+ }
+ .projects-item {
+     font-weight: 700;
+     margin-left: 17px;
+ }
+ .projekts-conainer{
+     margin-bottom: 55px;
+ }
+ .profesion-titl{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+ }
+ .profesion-compani{
+     color: #ff6b08;
+ }
+.profesion-time{
+    color: #4d0149;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+ }
+
+ .profesion-divider{
+    color: #230050;
+ }
+
+ .profesion-dutis {
+    color: #503b3b;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 14px;
+    margin-bottom: 24px;
+    margin-left: 17px;
+ }
+ 
+ .uniwerseti{
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+
+ .spetialiti{
+    color: #6b0606;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+ }
