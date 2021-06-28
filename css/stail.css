@@ -24,6 +24,7 @@ body{
     background: rgb(5, 6, 111);
     background: linear-gradient(0deg, rgba(5, 6, 111, 1) 0%, rgba(17, 166, 164, 1) 100%);
     width: 370px;
+    padding-bottom: 110px;
 
 }
 .my-photo{
@@ -64,10 +65,15 @@ body{
     
 }
 .contakt-container-titl-link{
+    display: flex;
+    align-items: center;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
     color: rgb(238, 241, 8);
+}
+.contakt-container-titl-link svg{
+    fill: #ffff;
 }
 .titl-link-contakt{
     font-size: 14px;
@@ -86,11 +92,15 @@ body{
 }
 
 .Tech-Skiemlls-line{
+    display: flex;
+    align-items: center;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
     color: rgb(245, 118, 13);
-    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    
 }
 
 .Soft-Skills-taitl{
@@ -100,6 +110,7 @@ body{
     color: #ffff;
     margin-bottom: 20px;
     
+    
 }
 
 .Soft-Skills-line{
@@ -108,9 +119,11 @@ body{
     line-height: 24px;
     color: rgb(245, 118, 13);
     margin-left: 15px;
+    margin-bottom: 5px;
     
 }
 .Tech-Skiells-tekst{
+    margin-left: 15px;
     color: #ffff;
 }
 .Soft-Skills-tekst{
